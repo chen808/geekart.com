@@ -1,0 +1,33 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+body{
+	background: linear-gradient(#D8BFD8, #663399);
+}
+
+.container{
+	background-color: white;
+}
+
+.carousel{
+	height: 500px;
+	background-color: orange;
+}
+
+.btn{
+	background-color: #663399;
+}
+
+#mainLogo{
+	margin: 10px;
+}
+
+#secondaryArticle{
+	padding: 30px 0px;
+}
+
+#secondaryArticle .col-sm-8{
+	padding: 10px 15px;
+}
